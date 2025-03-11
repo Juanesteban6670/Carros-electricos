@@ -14,5 +14,6 @@ If you are developing a production application, we recommend using TypeScript an
 npm install express cors
 
 npm install react react-dom
+
 npm install @vitejs/plugin-react vite
 
